@@ -1,0 +1,62 @@
+p {
+    font-family: 'Permanent Marker', cursive;    
+    color: #00478E;
+    
+}
+h2 {
+    font-family: 'Berkshire Swash', cursive;
+    color: #00478E;
+}
+body {
+    background-color: #AAD9FF
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;    
+}
+header {
+    background: url(images/Space.jpg);
+    background-size: cover;
+    padding: 100px 0px 0px 0px;
+} 
+article {
+    width: 750px;
+    padding:20px;
+    margin: 0 auto;
+}
+li {
+    text-align: center;
+}
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 24px;
+    border: 1px solid #060c11;
+    border-radius: 8px;
+    background: #4aa2f9;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4aa2f9), to(#00478e));
+    background: -moz-linear-gradient(top, #4aa2f9, #00478e);
+    background: linear-gradient(to bottom, #4aa2f9, #00478e);
+    text-shadow: #5a1717 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 1px solid #1e3c55;
+    background: #59c2ff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#59c2ff), to(#0055aa));
+    background: -moz-linear-gradient(top, #59c2ff, #0055aa);
+    background: linear-gradient(to bottom, #59c2ff, #0055aa);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #2c6195;
+    background: -webkit-gradient(linear, left top, left bottom, from(#2c6195), to(#00478e));
+    background: -moz-linear-gradient(top, #2c6195, #00478e);
+    background: linear-gradient(to bottom, #2c6195, #00478e);
+}

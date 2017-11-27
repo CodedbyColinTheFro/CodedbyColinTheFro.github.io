@@ -27,7 +27,7 @@ article {
 }
 li {
     text-align: center;
-    text-align: inline;
+    display: inline;
 }
 .button {
     display: inline-block;

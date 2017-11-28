@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+   <head>
+       <link href="app.css" rel="stylesheet">
+       <title>Colin's Website</title>
+       <meta charset="utf-8">
+       <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Pacifico" rel="stylesheet">
+       <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">       
+   </head>
+   <body>
+       <header>           
+           <h1>Home Page</h1>
+           
+           <ul>
+               <li class="inline"><a class="button" href="index.html">Homepage</a></li>
+               <li class="inline"><a class="button" href="">Button text</a></li>
+               <li class="inline"></li>
+               <li class="inline"></li>
+           </ul>
+       </header>
+       <article>
+            <h2>High School</h2>
+            <p>I would like to got to one of two schools Millikan or McBride. I would like to go to McBride because of it's technology program. On the other hand I would like to go to Millikan due to the fact that most of my friends are going, also I have a few people that are recomending that I go to this school. At this point in time I am not completely decided on which of the two schools I will go to.</p>
+       </article>

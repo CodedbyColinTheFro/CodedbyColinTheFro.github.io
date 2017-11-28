@@ -19,6 +19,7 @@ header {
     background: url(images/Space.jpg);
     background-size: cover;
     padding: 100px 0px 0px 0px;
+    text-align: center;
 } 
 article {
     width: 750px;

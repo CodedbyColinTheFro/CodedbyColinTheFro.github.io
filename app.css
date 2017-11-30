@@ -30,6 +30,9 @@ li {
     text-align: center;
     display: inline;
 }
+ol {
+    color: #00478E;
+}
 .button {
     display: inline-block;
     text-align: center;
